@@ -1,0 +1,2 @@
+I am doing practice for all git commands.
+want to practice on git add and git commit.
